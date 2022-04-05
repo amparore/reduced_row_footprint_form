@@ -8,6 +8,6 @@ The code defines a single function `rrff` that takes in input an arbitrary $N \t
 
 The code implements the theory described in the paper:
 ```
-\`\`The footprint form of a matrix: definition, properties, and an application'',
+``The footprint form of a matrix: definition, properties, and an application'',
 Amparore, Elvio G. and Ciardo, Gianfranco and Miner, Andrew S., Linear Algebra and its Applications, To appear.
 ```
